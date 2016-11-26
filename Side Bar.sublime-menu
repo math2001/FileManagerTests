@@ -1,0 +1,9 @@
+[
+    {
+        "caption": "Test if this(ese) item(s) exists",
+        "command": "fm_test_side_bar_folder_exists",
+        "args": {
+            "paths": []
+        }
+    }
+]
